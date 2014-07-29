@@ -94,9 +94,8 @@ Exemplo:
 
 # Requisitos
 
-1. Use a linguagem que você tem mais habilidade.
-2. Faça testes unitários.
-3. Use git e tente fazer commits pequenos.
-4. Após concluir o teste suba o código para um repositório privado no Bitbucket e nos dê permissão de leitura.
+1. Faça testes unitários.
+2. Use git e tente fazer commits pequenos.
+3. Após concluir o teste suba o código para um repositório privado no Bitbucket e nos dê permissão de leitura.
 
 HAVE FUN :)
