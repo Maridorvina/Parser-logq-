@@ -39,8 +39,7 @@ For each game generate something like:
 
 ## Task 2
 
-Após construir o parser construa um script que imprima um relatório de cada jogo (simplemente imprimindo o hash) e um ranking geral de kills por jogador.
-After building the parser, creat a script that prints a report for each game (simply by printing the hash) and a top ranking of kills per player.
+After building the parser, create a script that prints a report for each game (simply by printing all games in the same format of task 1) and a top ranking of kills per player.
 
 ## Plus
 
