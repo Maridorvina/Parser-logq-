@@ -96,7 +96,8 @@ Example:
 # Requirements
 
 1. Make unit tests.
-2. Use git and split your commits.
-3. After finish, update the code in a private Bitbucket repository and grant read access to us.
+2. Use C.
+3. Use git and split your commits.
+4. After finish, update the code in a private Bitbucket repository and grant read access to us.
 
 HAVE FUN :)
